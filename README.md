@@ -1,7 +1,7 @@
 # Dharati-Trivedi
 A bit About Me:
 
-👋 Welcome to my GitHub profile! I’m Dharati Trivedi, a passionate AI Engineer with 6+ years of experience in Computer Vision, NLP, and Reinforcement Learning. 
+👋 Welcome to my GitHub profile! I’m Dharati Trivedi, a passionate AI Engineer with experience in Computer Vision, NLP, and Reinforcement Learning. 
 I specialize in building end-to-end AI solutions — from data preprocessing and model training to optimization and deployment — delivering scalable and production-ready systems for industrial and research applications. 
 
 🧠 My expertise spans OCR, OCV, Data Matrix decoding, barcode detection, neural probabilistic language models, and reinforcement learning strategies. I’m proficient in TensorFlow, PyTorch, OpenCV, and experienced in deploying AI models on edge devices like Raspberry Pi and Jetson Nano.
